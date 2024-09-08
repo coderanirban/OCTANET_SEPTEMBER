@@ -20,7 +20,7 @@ The page is not just functional but **alive with smooth animations**, **responsi
 
 ## 🖥️ Live Demo
 You can explore the live version of this project hosted on **GitHub Pages**:
-👉 [Explore Anirban's Landing Page](https://your-github-username.github.io/your-repo-name/)
+👉 [Explore Anirban's Landing Page](https://github.com/coderanirban/my-project.git)
 
 ## 🎯 Purpose
 This landing page is designed to showcase the possibilities of an **interactive navigation menu**, enhancing user engagement by making the browsing experience smoother and more enjoyable. It's perfect for anyone looking for a clean and **modern user interface**!
